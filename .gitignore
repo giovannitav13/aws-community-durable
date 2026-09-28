@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+.idea/
+.env
+.env.*
+!.env.example
+cdk.out/
+dist/
+*.js
+*.d.ts
+*.js.map
+!.eslintrc.js
